@@ -8,11 +8,12 @@
   maximum-scale=5"
     />
 
-    <link rel="icon" href="devchallenges.png" />
+    <link rel="icon" href="./images/devchallenges.png" />
+    <!-- google font -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inconsolata&family=Montserrat&family=Space+Mono:wght@400;700&display=swap"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="style.css" />
@@ -21,21 +22,39 @@
   </head>
   <body>
     <div class="wrapper">
-      <nav>
-        <p>404 not found</p>
-      </nav>
-      <main class="container">
-        <img src="Scarecrow.png" alt="scarecrow" />
-        <article class="container">
-          <h1>I have bad news for you</h1>
-          <p>
-            The page you are looking for might be removed or is temporarily
-            unavailable
-          </p>
-          <button>Back to homepage</button>
-        </article>
+      <!-- Header -->
+      <header>
+        <h4 class="header-title">404 not found</h4>
+      </header>
+
+      <!-- Main -->
+      <main>
+        <section class="section">
+          <!-- article left -->
+          <article class="article-left">
+            <img src="./images/Scarecrow.png" alt="scarecrow" />
+          </article>
+          <!-- article right -->
+          <article class="article-right">
+            <h1>I have bad news for you</h1>
+            <p>
+              The page you are looking for might be removed or is temporarily
+              unavailable
+            </p>
+            <a href="">
+              <button>Back to homepage</button>
+            </a>
+          </article>
+        </section>
       </main>
-      <footer>created by mo-khaif - devChallenges.io</footer>
+      <!-- Footer -->
+      <footer>
+        created by
+        <a href="https://github.com/MuhammadAli-ai/responsive-404-not-found"
+          >mo-khaife
+        </a>
+        - devChallenges.io
+      </footer>
     </div>
   </body>
 </html>
