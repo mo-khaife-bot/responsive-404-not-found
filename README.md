@@ -66,6 +66,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [mo-khaife-portfolio](https://mo-khaife-site.netlify.app/)
-- GitHub [@chaw-bot](https://github.com/MuhammadAli-ai)
+- GitHub [@mo-khaife-bot](https://github.com/mo-khaife-bot)
 - Twitter [@chawfronaut](https://twitter.com/Khaife_Codes)
 - Email [mokhaife.ali@gmail.com](mailto:mokhaife.ali@gmail.com)
