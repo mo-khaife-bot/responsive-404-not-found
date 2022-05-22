@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://chaw-bot.github.io/404-Page/">
+    <a href="https://responsive-404-page.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/chaw-bot/404-Page/">
+    <a href="https://github.com/mo-khaife-bot/responsive-404-not-found">
       Solution
     </a>
     <span> | </span>
@@ -65,7 +65,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [chaws-portfolio](https://mo-khaife-site.netlify.app/)
+- Website [mo-khaife-portfolio](https://mo-khaife-site.netlify.app/)
 - GitHub [@chaw-bot](https://github.com/MuhammadAli-ai)
 - Twitter [@chawfronaut](https://twitter.com/Khaife_Codes)
 - Email [mokhaife.ali@gmail.com](mailto:mokhaife.ali@gmail.com)
